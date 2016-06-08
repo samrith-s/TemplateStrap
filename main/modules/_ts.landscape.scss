@@ -167,8 +167,16 @@
 
 	*.qcb.fl-p600 { font-size: $parent600; }
 
-	*.pl-a { position:absolute; }
-	*.pl-r { position:relative; }
-	*.pl-f { position:fixed; }
-	*.pl-s { position:static; }
+	*.qcb.pl-a { position:absolute; }
+	*.qcb.pl-r { position:relative; }
+	*.qcb.pl-f { position:fixed; }
+	*.qcb.pl-s { position:static; }
+
+	*.qcb.dl-b { display: block; }
+	*.qcb.dl-ib { display:inline-block; }
+
+	*.qcb.va-l-hn { @include dispflex; @include flexhorizontal; }
+	*.qcb.va-l-hr { @include dispflex; @include flexhorizontalreverse; }
+	*.qcb.va-l-vn { @include dispflex; @include flexvertical; }
+	*.qcb.va-l-vr { @include dispflex; @include flexverticalreverse; }
 }

@@ -167,7 +167,6 @@
 
 	*.qcb.fp-p600 { font-size: $parent600; }
 
-
 	*.qcb.pp-a { position:absolute; }
 	*.qcb.pp-r { position:relative; }
 	*.qcb.pp-f { position:fixed; }
@@ -176,8 +175,8 @@
 	*.qcb.dp-b { display: block; }
 	*.qcb.dp-ib { display:inline-block; }
 
-	*.qcb.va-hn { @include dispflex; @include flexhorizontal; }
-	*.qcb.va-hr { @include dispflex; @include flexhorizontalreverse; }
-	*.qcb.va-vn { @include dispflex; @include flexvertical; }
-	*.qcb.va-vr { @include dispflex; @include flexverticalreverse; }
+	*.qcb.va-p-hn { @include dispflex; @include flexhorizontal; }
+	*.qcb.va-p-hr { @include dispflex; @include flexhorizontalreverse; }
+	*.qcb.va-p-vn { @include dispflex; @include flexvertical; }
+	*.qcb.va-p-vr { @include dispflex; @include flexverticalreverse; }
 }
