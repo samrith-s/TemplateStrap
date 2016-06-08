@@ -1,0 +1,96 @@
+
+.portrait {
+
+	*.qcb.wp0 { width:$pos0; }
+	*.qcb.wp1 { width:$pos1; }
+	*.qcb.wp2 { width:$pos2; }
+	*.qcb.wp3 { width:$pos3; }
+	*.qcb.wp4 { width:$pos4; }
+	*.qcb.wp5 { width:$pos5; }
+	*.qcb.wp6 { width:$pos6; }
+	*.qcb.wp7 { width:$pos7; }
+	*.qcb.wp8 { width:$pos8; }
+	*.qcb.wp9 { width:$pos9; }
+	*.qcb.wp10 { width:$pos10; }
+	*.qcb.wp11 { width:$pos11; }
+	*.qcb.wp12 { width:$pos12; }
+	*.qcb.wp13 { width:$pos13; }
+	*.qcb.wp14 { width:$pos14; }
+	*.qcb.wp15 { width:$pos15; }
+	*.qcb.wp16 { width:$pos16; }
+	*.qcb.wp17 { width:$pos17; }
+	*.qcb.wp18 { width:$pos18; }
+	*.qcb.wp19 { width:$pos19; }
+	*.qcb.wp20 { width:$pos20; }
+
+	*.qcb.hp0 { height:$pos0; }
+	*.qcb.hp1 { height:$pos1; }
+	*.qcb.hp2 { height:$pos2; }
+	*.qcb.hp3 { height:$pos3; }
+	*.qcb.hp4 { height:$pos4; }
+	*.qcb.hp5 { height:$pos5; }
+	*.qcb.hp6 { height:$pos6; }
+	*.qcb.hp7 { height:$pos7; }
+	*.qcb.hp8 { height:$pos8; }
+	*.qcb.hp9 { height:$pos9; }
+	*.qcb.hp10 { height:$pos10; }
+	*.qcb.hp11 { height:$pos11; }
+	*.qcb.hp12 { height:$pos12; }
+	*.qcb.hp13 { height:$pos13; }
+	*.qcb.hp14 { height:$pos14; }
+	*.qcb.hp15 { height:$pos15; }
+	*.qcb.hp16 { height:$pos16; }
+	*.qcb.hp17 { height:$pos17; }
+	*.qcb.hp18 { height:$pos18; }
+	*.qcb.hp19 { height:$pos19; }
+	*.qcb.hp20 { height:$pos20; }
+
+	*.qcb.tp0 { top:$pos0; }
+	*.qcb.tp1 { top:$pos1; }
+	*.qcb.tp2 { top:$pos2; }
+	*.qcb.tp3 { top:$pos3; }
+	*.qcb.tp4 { top:$pos4; }
+	*.qcb.tp5 { top:$pos5; }
+	*.qcb.tp6 { top:$pos6; }
+	*.qcb.tp7 { top:$pos7; }
+	*.qcb.tp8 { top:$pos8; }
+	*.qcb.tp9 { top:$pos9; }
+	*.qcb.tp10 { top:$pos10; }
+	*.qcb.tp11 { top:$pos11; }
+	*.qcb.tp12 { top:$pos12; }
+	*.qcb.tp13 { top:$pos13; }
+	*.qcb.tp14 { top:$pos14; }
+	*.qcb.tp15 { top:$pos15; }
+	*.qcb.tp16 { top:$pos16; }
+	*.qcb.tp17 { top:$pos17; }
+	*.qcb.tp18 { top:$pos18; }
+	*.qcb.tp19 { top:$pos19; }
+	*.qcb.tp20 { top:$pos20; }
+
+	*.qcb.lp0 { left:$pos0; }
+	*.qcb.lp1 { left:$pos1; }
+	*.qcb.lp2 { left:$pos2; }
+	*.qcb.lp3 { left:$pos3; }
+	*.qcb.lp4 { left:$pos4; }
+	*.qcb.lp5 { left:$pos5; }
+	*.qcb.lp6 { left:$pos6; }
+	*.qcb.lp7 { left:$pos7; }
+	*.qcb.lp8 { left:$pos8; }
+	*.qcb.lp9 { left:$pos9; }
+	*.qcb.lp10 { left:$pos10; }
+	*.qcb.lp11 { left:$pos11; }
+	*.qcb.lp12 { left:$pos12; }
+	*.qcb.lp13 { left:$pos13; }
+	*.qcb.lp14 { left:$pos14; }
+	*.qcb.lp15 { left:$pos15; }
+	*.qcb.lp16 { left:$pos16; }
+	*.qcb.lp17 { left:$pos17; }
+	*.qcb.lp18 { left:$pos18; }
+	*.qcb.lp19 { left:$pos19; }
+	*.qcb.lp20 { left:$pos20; }
+
+	*.pp-a { position:absolute; }
+	*.pp-r { position:relative; }
+	*.pp-f { position:fixed; }
+	*.pp-s { position:static; }
+}
