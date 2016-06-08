@@ -172,4 +172,12 @@
 	*.qcb.pp-r { position:relative; }
 	*.qcb.pp-f { position:fixed; }
 	*.qcb.pp-s { position:static; }
+
+	*.qcb.dp-b { display: block; }
+	*.qcb.dp-ib { display:inline-block; }
+
+	*.qcb.va-hn { @include dispflex; @include flexhorizontal; }
+	*.qcb.va-hr { @include dispflex; @include flexhorizontalreverse; }
+	*.qcb.va-vn { @include dispflex; @include flexvertical; }
+	*.qcb.va-vr { @include dispflex; @include flexverticalreverse; }
 }
