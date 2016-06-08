@@ -89,8 +89,87 @@
 	*.qcb.lp19 { left:$pos19; }
 	*.qcb.lp20 { left:$pos20; }
 
-	*.pp-a { position:absolute; }
-	*.pp-r { position:relative; }
-	*.pp-f { position:fixed; }
-	*.pp-s { position:static; }
+	*.qcb.fp-c100 { font-size: $child100; }
+	*.qcb.fp-c110 { font-size: $child110; }
+	*.qcb.fp-c120 { font-size: $child120; }
+	*.qcb.fp-c130 { font-size: $child130; }
+	*.qcb.fp-c140 { font-size: $child140; }
+	*.qcb.fp-c150 { font-size: $child150; }
+	*.qcb.fp-c160 { font-size: $child160; }
+	*.qcb.fp-c170 { font-size: $child170; }
+	*.qcb.fp-c180 { font-size: $child180; }
+	*.qcb.fp-c190 { font-size: $child190; }
+
+	*.qcb.fp-c200 { font-size: $child200; }
+	*.qcb.fp-c210 { font-size: $child210; }
+	*.qcb.fp-c220 { font-size: $child220; }
+	*.qcb.fp-c230 { font-size: $child230; }
+	*.qcb.fp-c240 { font-size: $child240; }
+	*.qcb.fp-c250 { font-size: $child250; }
+	*.qcb.fp-c260 { font-size: $child260; }
+	*.qcb.fp-c270 { font-size: $child270; }
+	*.qcb.fp-c280 { font-size: $child280; }
+	*.qcb.fp-c290 { font-size: $child290; }
+
+	*.qcb.fp-c300 { font-size: $child300; }
+	*.qcb.fp-c325 { font-size: $child325; }
+	*.qcb.fp-c350 { font-size: $child350; }
+	*.qcb.fp-c375 { font-size: $child375; }
+
+	*.qcb.fp-c400 { font-size: $child400; }
+	*.qcb.fp-c425 { font-size: $child425; }
+	*.qcb.fp-c450 { font-size: $child450; }
+	*.qcb.fp-c475 { font-size: $child475; }
+	
+	*.qcb.fp-c500 { font-size: $child500; }
+	*.qcb.fp-c525 { font-size: $child525; }
+	*.qcb.fp-c550 { font-size: $child550; }
+	*.qcb.fp-c575 { font-size: $child575; }
+
+	*.qcb.fp-c600 { font-size: $child600; }
+
+	*.qcb.fp-p100 { font-size: $parent100; }
+	*.qcb.fp-p110 { font-size: $parent110; }
+	*.qcb.fp-p120 { font-size: $parent120; }
+	*.qcb.fp-p130 { font-size: $parent130; }
+	*.qcb.fp-p140 { font-size: $parent140; }
+	*.qcb.fp-p150 { font-size: $parent150; }
+	*.qcb.fp-p160 { font-size: $parent160; }
+	*.qcb.fp-p170 { font-size: $parent170; }
+	*.qcb.fp-p180 { font-size: $parent180; }
+	*.qcb.fp-p190 { font-size: $parent190; }
+
+	*.qcb.fp-p200 { font-size: $parent200; }
+	*.qcb.fp-p210 { font-size: $parent210; }
+	*.qcb.fp-p220 { font-size: $parent220; }
+	*.qcb.fp-p230 { font-size: $parent230; }
+	*.qcb.fp-p240 { font-size: $parent240; }
+	*.qcb.fp-p250 { font-size: $parent250; }
+	*.qcb.fp-p260 { font-size: $parent260; }
+	*.qcb.fp-p270 { font-size: $parent270; }
+	*.qcb.fp-p280 { font-size: $parent280; }
+	*.qcb.fp-p290 { font-size: $parent290; }
+
+	*.qcb.fp-p300 { font-size: $parent300; }
+	*.qcb.fp-p325 { font-size: $parent325; }
+	*.qcb.fp-p350 { font-size: $parent350; }
+	*.qcb.fp-p375 { font-size: $parent375; }
+
+	*.qcb.fp-p400 { font-size: $parent400; }
+	*.qcb.fp-p425 { font-size: $parent425; }
+	*.qcb.fp-p450 { font-size: $parent450; }
+	*.qcb.fp-p475 { font-size: $parent475; }
+	
+	*.qcb.fp-p500 { font-size: $parent500; }
+	*.qcb.fp-p525 { font-size: $parent525; }
+	*.qcb.fp-p550 { font-size: $parent550; }
+	*.qcb.fp-p575 { font-size: $parent575; }
+
+	*.qcb.fp-p600 { font-size: $parent600; }
+
+
+	*.qcb.pp-a { position:absolute; }
+	*.qcb.pp-r { position:relative; }
+	*.qcb.pp-f { position:fixed; }
+	*.qcb.pp-s { position:static; }
 }
