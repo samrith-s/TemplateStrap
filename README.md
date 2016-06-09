@@ -11,5 +11,7 @@
 	<li><a href="#start">Getting Started</a></li>
 	<li><a href="#positioning">Basic Positioning</a></li>
 	<li><a href="#orientation">Orientation-specific Positioning</a></li>
+	<li><a href="#colors">Color Helpers</a></li>
+	<li><a href="#helpers">Helper Classes</a></li>
 </ul>
 
