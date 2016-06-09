@@ -79,12 +79,12 @@
 			Portrait positioning uses the 'p' key in positioning classes. Below are a list of classes used in portrait positioning.
 		</p>
 		<ul>
-			<li>Width Portrait (wp): 'wp' followed by a number [0..20] => wp0, wp10, wp15</li>
-			<li>Height Portrait (hp): 'hp' followed by a number [0..20] => hp0, hp10, hp15</li>
-			<li>Top Portrait (tp): 'tp' followed by a number [0..20] => tp0, tp10, tp15</li>
-			<li>Left Portrait (lp): 'lp' followed by a number [0..20] => lp0, lp10, lp15</li>
-			<li>Bottom Portrait (bp): 'bp' followed by a number [0..20] => bp0, bp10, bp15</li>
-			<li>Right Portrait (rp): 'rp' followed by a number [0..20] => rp0, rp10, rp15</li>
+			<li>Width Portrait (wp): 'wp' followed by a number [0..20] => <code>.wp0, .wp10, .wp15</code></li>
+			<li>Height Portrait (hp): 'hp' followed by a number [0..20] => <code>.hp0, .hp10, .hp15</code></li>
+			<li>Top Portrait (tp): 'tp' followed by a number [0..20] => <code>.tp0, .tp10, .tp15</code></li>
+			<li>Left Portrait (lp): 'lp' followed by a number [0..20] => <code>.lp0, .lp10, .lp15</code></li>
+			<li>Bottom Portrait (bp): 'bp' followed by a number [0..20] => <code>.bp0, .bp10, .bp15</code></li>
+			<li>Right Portrait (rp): 'rp' followed by a number [0..20] => <code>.rp0, .rp10, .rp15</code></li>
 		</ul>
 	</p>
 </p>
