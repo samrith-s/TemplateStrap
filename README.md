@@ -157,4 +157,18 @@
 		<br />
 		<code>< p class="teal lighten2" >This is a teal background-colored paragraph lightened by 2 shades.< /p ></code>  
 	</p>
+
+	<h5><a name="#colors-text">Text Coloring</a></h5>
+	<p>
+		Text coloring is just as simple using TS coloring classes. For adding any text color onto an element that can have a colored text, just add the color name followed by '-text' to the TS element.
+		<br />
+		Example:  To achieve a text color of teal, your TS element will look something like so --
+		<br />
+		<code>< p class="teal-text" >This is a teal text-colored paragraph.< /p ></code>
+		<br />
+		And, to lighten or darken or accentuate the shade, you can add relevant <code>.text-lighten</code>, <code>.text-darken</code> or <code>.text-accent</code> classes to it, like so --
+		<br />
+		<code>< p class="teal-text text-lighten2" >This is a teal text-colored paragraph lightened by 2 shades.< /p ></code>  
+	</p>
+
 </p>
