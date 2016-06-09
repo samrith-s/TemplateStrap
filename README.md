@@ -130,10 +130,13 @@
 		The complete list of colors will be added here soon. In the mean while, you can check out the color reference at <a href="http://materializecss.com/color.html">Materialize CSS colors</a> page. The classes here are similar, barring a few minor changes.
 	</p>
 
-	<h5><a href="#colors-background">Background Coloring</a></h5>
+	<h5><a name="#colors-background">Background Coloring</a></h5>
 	<p>
-		Background coloring is very simple using TS coloring classes. For adding any color onto an element that can be colored, just add the color name to the TS element. Example: <br />
-		To achieve a background color of teal, your TS element will look something like this: <code>< p class="teal" >This is a teal background-colored paragraph.< /p ></codee>
+		Background coloring is very simple using TS coloring classes. For adding any color onto an element that can be colored, just add the color name to the TS element.
+		<br />
+		Example:  To achieve a background color of teal, your TS element will look something like this --
+		<br />
+		<code>< p class="teal" >This is a teal background-colored paragraph.< /p ></code>
 	</p>
 
 </p>
