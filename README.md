@@ -17,7 +17,7 @@
 
 <hr style="opacity:0.3" />
 
-<h5><a name="start">Getting Started</a></h5>
+<h3><a name="start">Getting Started</a></h3>
 <p>
 	To get started off with TemplateStrap, simple link the CSS file.
 
@@ -31,10 +31,10 @@
 		<code>https://rawgit.com/samrith-s/TemplateStrap/master/main/templatestrap.css</code>
 	</p>
 	
-	After you link up the CSS file, you need to add this nifty little code snippet that'll automatically add <code>.portrait</code> or <code>.landscape</code> class to the body tag. <br />
-	<b>Note: This script is essential for automatic switching of classes depending on the screen orientation.</b>
-	<br />
-	<br />
+	<p>
+		After you link up the CSS file, you need to add this nifty little code snippet that'll automatically add <code>.portrait</code> or <code>.landscape</code> class to the body tag. This script is essential for automatic switching of classes depending on the screen orientation.
+	</p>
+
 	<p>
 		<code>
 			window.addEventListener("resize", function() {
