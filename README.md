@@ -32,7 +32,7 @@
 				</ul>
 			</li>
 	</li>
-	<li><a href="#helpers">Helper Classes</a></li>
+	<!-- <li><a href="#helpers">Helper Classes</a></li> -->
 </ul>
 
 <hr style="opacity:0.3" />
@@ -123,7 +123,18 @@
 	</p>
 
 	<h3><a name="#colors">Color Helpers</a></h3>
-	<!-- <p> -->
-		
+	<p>
+		TS not only provides positioning, but also provides a bunch of color classes to help in coloring of background, text and border of all <code>.ts</code> elements.
+	</p>
+	<p>
+		The complete list of colors will be added here soon. In the mean while, you can check out the color reference at <a href="http://materializecss.com/color.html">Materialize CSS colors</a> page. The classes here are similar, barring a few minor changes.
+	</p>
+
+	<h5><a href="#colors-background">Background Coloring</a></h5>
+	<p>
+		Background coloring is very simple using TS coloring classes. For adding any color onto an element that can be colored, just add the color name to the TS element. Example: <br />
+		To achieve a background color of teal, your TS element will look something like this: <code>< p class="teal" >This is a teal background-colored paragraph.< /p ></codee>
+	</p>
+
 </p>
 
