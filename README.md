@@ -35,7 +35,7 @@
 	<p>
 		<code>
 			window.addEventListener("resize", function() {
-				if(this.innerWidth<this.innerHeight) this.document.body.className="portrait";
+				if(this.innerWidth < this.innerHeight) this.document.body.className="portrait";
 				else this.document.body.className="landscape";
 			});
 		</code>
