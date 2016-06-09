@@ -179,4 +179,10 @@
 	*.qcb.va-l-hr { @include dispflex; @include flexhorizontalreverse; }
 	*.qcb.va-l-vn { @include dispflex; @include flexvertical; }
 	*.qcb.va-l-vr { @include dispflex; @include flexverticalreverse; }
+
+	*.qcb.l-fw { width:100%!important; }
+	*.qcb.l-fh { height:100%!important; }
+	*.qcb.l-nm { margin:0!important; }
+	*.qcb.l-np { padding:0!important; }
+	*.qcb.l-ne { padding:0!important; margin:0!important; }
 }
