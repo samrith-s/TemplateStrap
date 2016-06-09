@@ -28,6 +28,17 @@
 		Development URL:<br />
 		<code>https://rawgit.com/samrith-s/TemplateStrap/master/main/templatestrap.css</code>
 	</p>
+	
+	After you link up the CSS file, you need to add this nifty little code snippet that'll automatically add <code>.portrait</code> or <code>.landscape</code> class to the body tag. <br />
+	<b>Note: This script is essential for automatic switching of classes depending on the screen orientation.</b>
 
+	<p>
+		<code>
+			window.addEventListener("resize", function() {
+				if(this.innerWidth<this.innerHeight) this.document.body.className="portrait";
+				else this.document.body.className="landscape";
+			});
+		</code>
+	</p>
 </p>
 
