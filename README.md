@@ -73,7 +73,19 @@
 	</p>
 
 	<p>
-		<h5>Portrait Positioning</h5>
-	
+		<h5><a name="#orientation-portrait">Portrait Positioning</a></h5>
+
+		<p>
+			Portrait positioning uses the 'p' key in positioning classes. Below are a list of classes used in portrait positioning.
+		</p>
+		<ul>
+			<li>Width Portrait (wp): 'wp' followed by a number [0..20] => wp0, wp10, wp15</li>
+			<li>Height Portrait (hp): 'hp' followed by a number [0..20] => hp0, hp10, hp15</li>
+			<li>Top Portrait (tp): 'tp' followed by a number [0..20] => tp0, tp10, tp15</li>
+			<li>Left Portrait (lp): 'lp' followed by a number [0..20] => lp0, lp10, lp15</li>
+			<li>Bottom Portrait (bp): 'bp' followed by a number [0..20] => bp0, bp10, bp15</li>
+			<li>Right Portrait (rp): 'rp' followed by a number [0..20] => rp0, rp10, rp15</li>
+		</ul>
+	</p>
 </p>
 
