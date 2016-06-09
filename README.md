@@ -64,6 +64,12 @@
 	<p>
 		TS sections and bars work in tandem with the <code>.portrait</code> and <code>.landscape</code> classes to provide great flexibility and exclusivity to design UI for each of those orientations.
 	</p>
+
+	<p>
+		<strong>
+			All elements on which TS classes need to reflect should have the <code>.ts</code> class attached to them. Every TS element in the HTML is identified by this class.
+		</strong>
+	</p>
 </p>
 
 <h3><a name="orientation">Orientation-specific Positioning</a></h3>
