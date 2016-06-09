@@ -74,7 +74,6 @@
 
 	<p>
 		<h5><a name="#orientation-portrait">Portrait Positioning</a></h5>
-
 		<p>
 			Portrait positioning uses the 'p' key in positioning classes. Below are a list of classes used in portrait positioning.
 		</p>
@@ -87,5 +86,21 @@
 			<li>Right Portrait (rp):<br />'rp' followed by a number [0..20]<br />Example: <code>.rp0, .rp10, .rp15</code><br /><br /></li>
 		</ul>
 	</p>
+
+	<p>
+		<h5><a name="#orientation-landscape">Landscape Positioning</a></h5>
+		<p>
+			Landscape positioning uses the 'l' key in positioning classes. Below are a list of classes used in landscape positioning.
+		</p>
+		<ul>
+			<li>Width Landscape (wp):<br />'wl' followed by a number [0..20]<br />Example: <code>.wl0, .wl10, .wl15</code><br /><br /></li>
+			<li>Height Landscape (hp):<br />'hl' followed by a number [0..20]<br />Example: <code>.hl0, .hl10, .hl15</code><br /><br /></li>
+			<li>Top Landscape (tp):<br />'tl' followed by a number [0..20]<br />Example: <code>.tl0, .tl10, .tl15</code><br /><br /></li>
+			<li>Left Landscape (lp):<br />'ll' followed by a number [0..20]<br />Example: <code>.ll0, .ll10, .ll15</code><br /><br /></li>
+			<li>Bottom Landscape (bp):<br />'bl' followed by a number [0..20]<br />Example: <code>.bl0, .bl10, .bl15</code><br /><br /></li>
+			<li>Right Landscape (rp):<br />'rl' followed by a number [0..20]<br />Example: <code>.rl0, .rl10, .rl15</code><br /><br /></li>
+		</ul>
+	</p>
+
 </p>
 
