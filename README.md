@@ -71,6 +71,8 @@
 	<p><a href="#top">Back to Top</a></p>
 </p>
 
+<hr style="opacity:0.3" /> 
+
 <h3><a name="positioning">Basic Positioning</a></h3>
 <p>
 	<p>
@@ -89,6 +91,8 @@
 
 	<p><a href="#top">Back to Top</a></p>
 </p>
+
+<hr style="opacity:0.3" />
 
 <h3><a name="orientation">Orientation-specific Positioning</a></h3>
 <p>
@@ -129,6 +133,8 @@
 	<p><a href="#top">Back to Top</a></p>
 
 </p>
+
+<hr style="opacity:0.3" />
 
 <h3><a name="#colors">Color Helpers</a></h3>
 <p>
