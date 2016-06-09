@@ -68,7 +68,7 @@
 		AAAAND, you're done! You can now use the classes contained within to create your own views for both orientations exclusively. Please feel free to raise issues on the <a href="https://github.com/samrith-s/TemplateStrap/issues" target="_blank">issues section</a> of this repository.
 	</p>
 
-	<p><a href="#top">Back to Top</a></p>
+	<p style="text-align:right"><a href="#top">Back to Top</a></p>
 </p>
 
 <hr style="opacity:0.3" /> 
@@ -89,7 +89,7 @@
 		</strong>
 	</p>
 
-	<p><a href="#top">Back to Top</a></p>
+	<p style="text-align:right"><a href="#top">Back to Top</a></p>
 </p>
 
 <hr style="opacity:0.3" />
@@ -130,7 +130,7 @@
 		</ul>
 	</p>
 
-	<p><a href="#top">Back to Top</a></p>
+	<p style="text-align:right"><a href="#top">Back to Top</a></p>
 
 </p>
 
@@ -240,6 +240,6 @@
 		<code>< p class="teal-border-r border-r-lighten2" >This is a teal border-right-colored paragraph lightened by 2 shades.< /p ></code>
 	</p>
 
-	<p><a href="#top">Back to Top</a></p>
+	<p style="text-align:right"><a href="#top">Back to Top</a></p>
 
 </p>
