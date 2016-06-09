@@ -1,8 +1,8 @@
 <h1>TEMPLATE STRAP</h1>
 
-<p>Created by: Samrith Shankar</p>
-<p>For: Ptotem Technologies</p>
-<p>Commercial Usage: Not allowed</p>
+Created by: Samrith Shankar<br />
+For: Ptotem Technologies<br />
+Commercial Usage: Not allowed<br />
 
 <h4>Table of Contents</h4>
 <ul>
