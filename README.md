@@ -134,10 +134,16 @@
 	<p>
 		Background coloring is very simple using TS coloring classes. For adding any color onto an element that can be colored, just add the color name to the TS element.
 		<br />
-		Example:  To achieve a background color of teal, your TS element will look something like this --
+		Example:  To achieve a background color of teal, your TS element will look something like so --
 		<br />
 		<code>< p class="teal" >This is a teal background-colored paragraph.< /p ></code>
+		<br />
+		And, to lighten or darken or accentuate the shade, you can add relevant <code>.lighten</code>, <code>.darken</code> or <code>.accent</code> classes to it, like so --
+		<br />
+		<code>< p class="teal lighten2" >This is a teal background-colored paragraph lightened by 2 shades < /p ></code>  
 	</p>
+
+
 
 </p>
 
