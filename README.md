@@ -34,6 +34,7 @@
 	After you link up the CSS file, you need to add this nifty little code snippet that'll automatically add <code>.portrait</code> or <code>.landscape</code> class to the body tag. <br />
 	<b>Note: This script is essential for automatic switching of classes depending on the screen orientation.</b>
 	<br />
+	<br />
 	<p>
 		<code>
 			window.addEventListener("resize", function() {
