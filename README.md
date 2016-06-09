@@ -15,3 +15,8 @@
 	<li><a href="#helpers">Helper Classes</a></li>
 </ul>
 
+<h5><a name="start">Getting Started</a></h5>
+<p>
+	To get started off with TemplateStrap, simple link the CSS file to your <code><head></code> tag.
+</p>
+
