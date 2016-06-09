@@ -171,4 +171,74 @@
 		<code>< p class="teal-text text-lighten2" >This is a teal text-colored paragraph lightened by 2 shades.< /p ></code>  
 	</p>
 
+	<h5><a name="#colors-border">Border Coloring</a></h5>
+	<p>
+		Border coloring is simple but a little more extensive using TS coloring classes. For adding any border color onto an element that can have a colored border, just add the color name followed by '-border' to the TS element. Border colors only reflect on elements with a <code>border-style: solid | dotted | dashed</code> or a <code>border-weight: px | em | rem</code> styling present.
+		<br />
+		Example:  To achieve a border color of teal, your TS element will look something like so --
+		<br />
+		<code>< p class="teal-border" >This is a teal border-colored paragraph.< /p ></code>
+		<br />
+		And, to lighten or darken or accentuate the shade, you can add relevant <code>.border-lighten</code>, <code>.border-darken</code> or <code>.border-accent</code> classes to it, like so --
+		<br />
+		<code>< p class="teal-border border-lighten2" >This is a teal border-colored paragraph lightened by 2 shades.< /p ></code>  
+	</p>
+
+	<p>
+		TS allows specifying border colors individually.
+	</p>
+
+	<h6><a name="#colors-border-top">Top Border Coloring</a></h6>
+	<p>
+		The top border coloring classes only set the top border color.
+		<br />
+		Example:  To achieve a top border color of teal, your TS element will look something like so --
+		<br />
+		<code>< p class="teal-border-t" style="border-width:5px; border-style:solid;" >This is a teal top-border-colored paragraph.< /p ></code>
+		<br />
+		And, to lighten or darken or accentuate the shade, you can add relevant <code>.border-t-lighten</code>, <code>.border-t-darken</code> or <code>.border-t-accent</code> classes to it, like so --
+		<br />
+		<code>< p class="teal-border-t border-t-lighten2" >This is a teal border-top-colored paragraph lightened by 2 shades.< /p ></code>
+	</p>
+
+	<h6><a name="#colors-border-left">Left Border Coloring</a></h6>
+	<p>
+		The left border coloring classes only set the left border color.
+		<br />
+		Example:  To achieve a left border color of teal, your TS element will look something like so --
+		<br />
+		<code>< p class="teal-border-l" style="border-width:5px; border-style:solid;" >This is a teal left-border-colored paragraph.< /p ></code>
+		<br />
+		And, to lighten or darken or accentuate the shade, you can add relevant <code>.border-l-lighten</code>, <code>.border-l-darken</code> or <code>.border-l-accent</code> classes to it, like so --
+		<br />
+		<code>< p class="teal-border-l border-l-lighten2" >This is a teal border-left-colored paragraph lightened by 2 shades.< /p ></code>
+	</p>
+
+	<h6><a name="#colors-border-bottom">Bottom Border Coloring</a></h6>
+	<p>
+		The bottom border coloring classes only set the bottom border color.
+		<br />
+		Example:  To achieve a bottom border color of teal, your TS element will look something like so --
+		<br />
+		<code>< p class="teal-border-b" style="border-width:5px; border-style:solid;" >This is a teal bottom-border-colored paragraph.< /p ></code>
+		<br />
+		And, to lighten or darken or accentuate the shade, you can add relevant <code>.border-b-lighten</code>, <code>.border-b-darken</code> or <code>.border-b-accent</code> classes to it, like so --
+		<br />
+		<code>< p class="teal-border-b border-b-lighten2" >This is a teal border-bottom-colored paragraph lightened by 2 shades.< /p ></code>
+	</p>
+
+	<h6><a name="#colors-border-right">Top Border Coloring</a></h6>
+	<p>
+		The right border coloring classes only set the right border color.
+		<br />
+		Example:  To achieve a right border color of teal, your TS element will look something like so --
+		<br />
+		<code>< p class="teal-border-r" style="border-width:5px; border-style:solid;" >This is a teal right-border-colored paragraph.< /p ></code>
+		<br />
+		And, to lighten or darken or accentuate the shade, you can add relevant <code>.border-r-lighten</code>, <code>.border-r-darken</code> or <code>.border-r-accent</code> classes to it, like so --
+		<br />
+		<code>< p class="teal-border-r border-r-lighten2" >This is a teal border-right-colored paragraph lightened by 2 shades.< /p ></code>
+	</p>
+
+
 </p>
