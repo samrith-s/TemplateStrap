@@ -17,6 +17,17 @@
 
 <h5><a name="start">Getting Started</a></h5>
 <p>
-	To get started off with TemplateStrap, simple link the CSS file to your <code>< head ></code> tag.
+	To get started off with TemplateStrap, simple link the CSS file.
+	
+	<br /><br />
+
+	Production URL:<br />
+	<code>https://cdn.rawgit.com/samrith-s/TemplateStrap/master/main/templatestrap.css</code>
+
+	<br /><br />
+
+	Development URL:<br />
+	<code>https://rawgit.com/samrith-s/TemplateStrap/master/main/templatestrap.css</code>
+
 </p>
 
