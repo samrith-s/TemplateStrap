@@ -1,4 +1,4 @@
-<h1>TEMPLATE STRAP</h1>
+<h1>TEMPLATE<span style="color:#d32f2f;text-shadow:0 2px #111;">STRAP</span></h1>
 
 <p>
 	A set of basic CSS3 classes to help with positioning for landscape and portrait screens. Additional color classes help you create truly brilliant and yet simplistic UI while easing out a host of stuff. With a lot of shorthands for the majority of the classes, it eases out having to write really long class-names. For people familiar with the syntax, make the code absolutely readable, by a combination of initials and shortnames.
@@ -43,5 +43,14 @@
 			});
 		</code>
 	</p>
+
+	<p>
+		AAAAND, you're done! You can now use the classes contained within to create your own views for both orientations exclusively. Please feel free to raise issues on the <a href="https://github.com/samrith-s/TemplateStrap/issues" target="_blank">issues section</a> of this repository.
+	</p>
+</p>
+
+<h3><a name="positioning">Basic Positioning</a></h3>
+<p>
+
 </p>
 
