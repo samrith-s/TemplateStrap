@@ -227,7 +227,7 @@
 		<code>< p class="teal-border-b border-b-lighten2" >This is a teal border-bottom-colored paragraph lightened by 2 shades.< /p ></code>
 	</p>
 
-	<h6><a name="#colors-border-right">Top Border Coloring</a></h6>
+	<h6><a name="#colors-border-right">Right Border Coloring</a></h6>
 	<p>
 		The right border coloring classes only set the right border color.
 		<br />
