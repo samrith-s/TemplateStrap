@@ -15,6 +15,8 @@
 	<li><a href="#helpers">Helper Classes</a></li>
 </ul>
 
+<hr style="opacity:0.3" />
+
 <h5><a name="start">Getting Started</a></h5>
 <p>
 	To get started off with TemplateStrap, simple link the CSS file.
@@ -31,7 +33,7 @@
 	
 	After you link up the CSS file, you need to add this nifty little code snippet that'll automatically add <code>.portrait</code> or <code>.landscape</code> class to the body tag. <br />
 	<b>Note: This script is essential for automatic switching of classes depending on the screen orientation.</b>
-
+	<br />
 	<p>
 		<code>
 			window.addEventListener("resize", function() {
