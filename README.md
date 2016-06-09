@@ -1,4 +1,4 @@
-<h1>TEMPLATE<span style="color:#d32f2f;text-shadow:0 2px #111;">STRAP</span></h1>
+<h1>TEMPLATESTRAP</h1>
 
 <p>
 	A set of basic CSS3 classes to help with positioning for landscape and portrait screens. Additional color classes help you create truly brilliant and yet simplistic UI while easing out a host of stuff. With a lot of shorthands for the majority of the classes, it eases out having to write really long class-names. For people familiar with the syntax, make the code absolutely readable, by a combination of initials and shortnames.
@@ -10,7 +10,13 @@
 <ul>
 	<li><a href="#start">Getting Started</a></li>
 	<li><a href="#positioning">Basic Positioning</a></li>
-	<li><a href="#orientation">Orientation-specific Positioning</a></li>
+	<li>
+		<a href="#orientation">Orientation-specific Positioning</a>
+		<ul>
+			<li><a href="#orientation-portrait">Portrait Positioning</a></li>
+			<li><a href="#orientation-landscape">Landscape Positioning</a></li>
+		</ul>
+	</li>
 	<li><a href="#colors">Color Helpers</a></li>
 	<li><a href="#helpers">Helper Classes</a></li>
 </ul>
@@ -51,6 +57,23 @@
 
 <h3><a name="positioning">Basic Positioning</a></h3>
 <p>
+	<p>
+		TS provides a bunch of classes to position any HTML element within thr screen space. The typical TS screen is divided into 20 sections, or columns, and 20 bars, or rows, each taking up 5% of the screen space. 
+	</p>
 
+	<p>
+		TS sections and bars work in tandem with the <code>.portrait</code> and <code>.landscape</code> classes to provide great flexibility and exclusivity to design UI for each of those orientations.
+	</p>
+</p>
+
+<h3><a name="orientation">Orientation-specific Positioning</a></h3>
+<p>
+	<p>
+		TS relies heavily on orientation. The main function of this CSS framework is to make it pain-free to create specific differences in UI for landscape and portrait screens.
+	</p>
+
+	<p>
+		<h5>Portrait Positioning</h5>
+	
 </p>
 
