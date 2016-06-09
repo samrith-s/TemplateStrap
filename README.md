@@ -240,5 +240,6 @@
 		<code>< p class="teal-border-r border-r-lighten2" >This is a teal border-right-colored paragraph lightened by 2 shades.< /p ></code>
 	</p>
 
+	<p><a href="#top">Back to Top</a></p>
 
 </p>
