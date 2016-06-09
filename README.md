@@ -1,4 +1,4 @@
-<h1>TEMPLATESTRAP</h1>
+<h1><a name="#top">TEMPLATESTRAP</a></h1>
 
 <p>
 	A set of basic CSS3 classes to help with positioning for landscape and portrait screens. Additional color classes help you create truly brilliant and yet simplistic UI while easing out a host of stuff. With a lot of shorthands for the majority of the classes, it eases out having to write really long class-names. For people familiar with the syntax, make the code absolutely readable, by a combination of initials and shortnames.
@@ -67,6 +67,8 @@
 	<p>
 		AAAAND, you're done! You can now use the classes contained within to create your own views for both orientations exclusively. Please feel free to raise issues on the <a href="https://github.com/samrith-s/TemplateStrap/issues" target="_blank">issues section</a> of this repository.
 	</p>
+
+	<p><a href="#top">Back to Top</a></p>
 </p>
 
 <h3><a name="positioning">Basic Positioning</a></h3>
@@ -84,6 +86,8 @@
 			All elements on which TS classes need to reflect should have the <code>.ts</code> class attached to them. Every TS element in the HTML is identified by this class.
 		</strong>
 	</p>
+
+	<p><a href="#top">Back to Top</a></p>
 </p>
 
 <h3><a name="orientation">Orientation-specific Positioning</a></h3>
@@ -122,7 +126,12 @@
 		</ul>
 	</p>
 
-	<h3><a name="#colors">Color Helpers</a></h3>
+	<p><a href="#top">Back to Top</a></p>
+
+</p>
+
+<h3><a name="#colors">Color Helpers</a></h3>
+<p>
 	<p>
 		TS not only provides positioning, but also provides a bunch of color classes to help in coloring of background, text and border of all <code>.ts</code> elements.
 	</p>
@@ -140,10 +149,6 @@
 		<br />
 		And, to lighten or darken or accentuate the shade, you can add relevant <code>.lighten</code>, <code>.darken</code> or <code>.accent</code> classes to it, like so --
 		<br />
-		<code>< p class="teal lighten2" >This is a teal background-colored paragraph lightened by 2 shades < /p ></code>  
+		<code>< p class="teal lighten2" >This is a teal background-colored paragraph lightened by 2 shades.< /p ></code>  
 	</p>
-
-
-
 </p>
-
