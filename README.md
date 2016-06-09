@@ -17,7 +17,21 @@
 			<li><a href="#orientation-landscape">Landscape Positioning</a></li>
 		</ul>
 	</li>
-	<li><a href="#colors">Color Helpers</a></li>
+	<li>
+		<a href="#colors">Color Helpers</a>
+		<ul>
+			<li><a href="#colors-background">Background Coloring</a></li>
+			<li><a href="#colors-text">Text Coloring</a></li>
+			<li>
+				<a href="#colors-border">Border Coloring</a>
+				<ul>
+					<li><a href="#colors-border-top">Top Border Coloring</a></li>
+					<li><a href="#colors-border-left">Left Border Coloring</a></li>
+					<li><a href="#colors-border-bottom">Border Bottom Coloring</a></li>
+					<li><a href="#colors-border-right">Right Border Coloring</a></li>
+				</ul>
+			</li>
+	</li>
 	<li><a href="#helpers">Helper Classes</a></li>
 </ul>
 
@@ -108,5 +122,8 @@
 		</ul>
 	</p>
 
+	<h3><a name="#colors">Color Helpers</a></h3>
+	<!-- <p> -->
+		
 </p>
 
