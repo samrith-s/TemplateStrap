@@ -1,6 +1,7 @@
 
 .portrait {
 
+	*.ts.wpA { width:$posA; }
 	*.ts.wp0 { width:$pos0; }
 	*.ts.wp1 { width:$pos1; }
 	*.ts.wp2 { width:$pos2; }
@@ -23,6 +24,7 @@
 	*.ts.wp19 { width:$pos19; }
 	*.ts.wp20 { width:$pos20; }
 
+	*.ts.hpA { height:$posA; }
 	*.ts.hp0 { height:$pos0; }
 	*.ts.hp1 { height:$pos1; }
 	*.ts.hp2 { height:$pos2; }
@@ -237,4 +239,10 @@
 	*.ts.float-pl { float:left!important; }
 	*.ts.float-pr { float:right!important; }
 	*.ts.float-pn { float:none!important; }
+
+	*.ts.space-p1 { margin-top:1%!important; }
+	*.ts.space-p2 { margin-top:2%!important; }
+	*.ts.space-p3 { margin-top:3%!important; }
+	*.ts.space-p4 { margin-top:4%!important; }
+	*.ts.space-p5 { margin-top:5%!important; }
 }

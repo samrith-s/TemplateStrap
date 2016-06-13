@@ -1,6 +1,7 @@
 
 .landscape {
 
+	*.ts.wlA { width:$posA; }
 	*.ts.wl0 { width:$pos0; }
 	*.ts.wl1 { width:$pos1; }
 	*.ts.wl2 { width:$pos2; }
@@ -23,6 +24,7 @@
 	*.ts.wl19 { width:$pos19; }
 	*.ts.wl20 { width:$pos20; }
 
+	*.ts.hlA { height:$posA; }
 	*.ts.hl0 { height:$pos0; }
 	*.ts.hl1 { height:$pos1; }
 	*.ts.hl2 { height:$pos2; }
@@ -237,4 +239,10 @@
 	*.ts.float-ll { float:left!important; }
 	*.ts.float-lr { float:right!important; }
 	*.ts.float-ln { float:none!important; }
+
+	*.ts.space-l1 { margin-top:1%!important; }
+	*.ts.space-l2 { margin-top:2%!important; }
+	*.ts.space-l3 { margin-top:3%!important; }
+	*.ts.space-l4 { margin-top:4%!important; }
+	*.ts.space-l5 { margin-top:5%!important; }
 }
