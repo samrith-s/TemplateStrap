@@ -5,6 +5,8 @@
 	display: -ms-flexbox!important;
 	display: -webkit-flex!important;
 	display: flex!important;
+	-webkit-align-items: center;
+	align-items: center;
 }
 
 @mixin flexhorizontal {
