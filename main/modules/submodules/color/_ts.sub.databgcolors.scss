@@ -1,0 +1,350 @@
+/*-- RED BACKGROUND --*/
+*.ts[data-bgcolor="red"] { background-color: $red; }
+
+*.ts[data-bgcolor="red lighten1"] { background-color: $red-l1; }
+*.ts[data-bgcolor="red lighten2"] { background-color: $red-l2; }
+*.ts[data-bgcolor="red lighten3"] { background-color: $red-l3; }
+*.ts[data-bgcolor="red lighten4"] { background-color: $red-l4; }
+*.ts[data-bgcolor="red lighten5"] { background-color: $red-l5; }
+
+*.ts[data-bgcolor="red darken1"] { background-color: $red-d1; }
+*.ts[data-bgcolor="red darken2"] { background-color: $red-d2; }
+*.ts[data-bgcolor="red darken3"] { background-color: $red-d3; }
+*.ts[data-bgcolor="red darken4"] { background-color: $red-d4; }
+
+*.ts[data-bgcolor="red accent1"] { background-color: $red-a1; }
+*.ts[data-bgcolor="red accent2"] { background-color: $red-a2; }
+*.ts[data-bgcolor="red accent3"] { background-color: $red-a3; }
+*.ts[data-bgcolor="red accent4"] { background-color: $red-a4; }
+
+/*-- PINK BACKGROUND --*/
+*.ts[data-bgcolor="pink"] { background-color: $pink; }
+
+*.ts[data-bgcolor="pink lighten1"] { background-color: $pink-l1; }
+*.ts[data-bgcolor="pink lighten2"] { background-color: $pink-l2; }
+*.ts[data-bgcolor="pink lighten3"] { background-color: $pink-l3; }
+*.ts[data-bgcolor="pink lighten4"] { background-color: $pink-l4; }
+*.ts[data-bgcolor="pink lighten5"] { background-color: $pink-l5; }
+
+*.ts[data-bgcolor="pink darken1"] { background-color: $pink-d1; }
+*.ts[data-bgcolor="pink darken2"] { background-color: $pink-d2; }
+*.ts[data-bgcolor="pink darken3"] { background-color: $pink-d3; }
+*.ts[data-bgcolor="pink darken4"] { background-color: $pink-d4; }
+
+*.ts[data-bgcolor="pink accent1"] { background-color: $pink-a1; }
+*.ts[data-bgcolor="pink accent2"] { background-color: $pink-a2; }
+*.ts[data-bgcolor="pink accent3"] { background-color: $pink-a3; }
+*.ts[data-bgcolor="pink accent4"] { background-color: $pink-a4; }
+
+/*-- PURPLE BACKGROUND --*/
+*.ts[data-bgcolor="purple"] { background-color: $purple; }
+
+*.ts[data-bgcolor="purple lighten1"] { background-color: $purple-l1; }
+*.ts[data-bgcolor="purple lighten2"] { background-color: $purple-l2; }
+*.ts[data-bgcolor="purple lighten3"] { background-color: $purple-l3; }
+*.ts[data-bgcolor="purple lighten4"] { background-color: $purple-l4; }
+*.ts[data-bgcolor="purple lighten5"] { background-color: $purple-l5; }
+
+*.ts[data-bgcolor="purple darken1"] { background-color: $purple-d1; }
+*.ts[data-bgcolor="purple darken2"] { background-color: $purple-d2; }
+*.ts[data-bgcolor="purple darken3"] { background-color: $purple-d3; }
+*.ts[data-bgcolor="purple darken4"] { background-color: $purple-d4; }
+
+*.ts[data-bgcolor="purple accent1"] { background-color: $purple-a1; }
+*.ts[data-bgcolor="purple accent2"] { background-color: $purple-a2; }
+*.ts[data-bgcolor="purple accent3"] { background-color: $purple-a3; }
+*.ts[data-bgcolor="purple accent4"] { background-color: $purple-a4; }
+
+/*-- DEEP-PURPLE BACKGROUND --*/
+*.ts[data-bgcolor="deeppurple"] { background-color: $deeppurple; }
+
+*.ts[data-bgcolor="deeppurple lighten1"] { background-color: $deeppurple-l1; }
+*.ts[data-bgcolor="deeppurple lighten2"] { background-color: $deeppurple-l2; }
+*.ts[data-bgcolor="deeppurple lighten3"] { background-color: $deeppurple-l3; }
+*.ts[data-bgcolor="deeppurple lighten4"] { background-color: $deeppurple-l4; }
+*.ts[data-bgcolor="deeppurple lighten5"] { background-color: $deeppurple-l5; }
+
+*.ts[data-bgcolor="deeppurple darken1"] { background-color: $deeppurple-d1; }
+*.ts[data-bgcolor="deeppurple darken2"] { background-color: $deeppurple-d2; }
+*.ts[data-bgcolor="deeppurple darken3"] { background-color: $deeppurple-d3; }
+*.ts[data-bgcolor="deeppurple darken4"] { background-color: $deeppurple-d4; }
+
+*.ts[data-bgcolor="deeppurple accent1"] { background-color: $deeppurple-a1; }
+*.ts[data-bgcolor="deeppurple accent2"] { background-color: $deeppurple-a2; }
+*.ts[data-bgcolor="deeppurple accent3"] { background-color: $deeppurple-a3; }
+*.ts[data-bgcolor="deeppurple accent4"] { background-color: $deeppurple-a4; }
+
+/*-- INDIGO BACKGROUND --*/
+*.ts[data-bgcolor="indigo"] { background-color: $indigo; }
+
+*.ts[data-bgcolor="indigo lighten1"] { background-color: $indigo-l1; }
+*.ts[data-bgcolor="indigo lighten2"] { background-color: $indigo-l2; }
+*.ts[data-bgcolor="indigo lighten3"] { background-color: $indigo-l3; }
+*.ts[data-bgcolor="indigo lighten4"] { background-color: $indigo-l4; }
+*.ts[data-bgcolor="indigo lighten5"] { background-color: $indigo-l5; }
+
+*.ts[data-bgcolor="indigo darken1"] { background-color: $indigo-d1; }
+*.ts[data-bgcolor="indigo darken2"] { background-color: $indigo-d2; }
+*.ts[data-bgcolor="indigo darken3"] { background-color: $indigo-d3; }
+*.ts[data-bgcolor="indigo darken4"] { background-color: $indigo-d4; }
+
+*.ts[data-bgcolor="indigo accent1"] { background-color: $indigo-a1; }
+*.ts[data-bgcolor="indigo accent2"] { background-color: $indigo-a2; }
+*.ts[data-bgcolor="indigo accent3"] { background-color: $indigo-a3; }
+*.ts[data-bgcolor="indigo accent4"] { background-color: $indigo-a4; }
+
+/*-- BLUE BACKGROUND --*/
+*.ts[data-bgcolor="blue"] { background-color: $blue; }
+
+*.ts[data-bgcolor="blue lighten2"] { background-color: $blue-l1; }
+*.ts[data-bgcolor="blue lighten2"] { background-color: $blue-l2; }
+*.ts[data-bgcolor="blue lighten3"] { background-color: $blue-l3; }
+*.ts[data-bgcolor="blue lighten4"] { background-color: $blue-l4; }
+*.ts[data-bgcolor="blue lighten5"] { background-color: $blue-l5; }
+
+*.ts[data-bgcolor="blue darken1"] { background-color: $blue-d1; }
+*.ts[data-bgcolor="blue darken2"] { background-color: $blue-d2; }
+*.ts[data-bgcolor="blue darken3"] { background-color: $blue-d3; }
+*.ts[data-bgcolor="blue darken4"] { background-color: $blue-d4; }
+
+*.ts[data-bgcolor="blue accent1"] { background-color: $blue-a1; }
+*.ts[data-bgcolor="blue accent2"] { background-color: $blue-a2; }
+*.ts[data-bgcolor="blue accent3"] { background-color: $blue-a3; }
+*.ts[data-bgcolor="blue accent4"] { background-color: $blue-a4; }
+
+/*-- LIGHT-BLUE BACKGROUND --*/
+*.ts[data-bgcolor="lightblue"] { background-color: $lightblue; }
+
+*.ts[data-bgcolor="lightblue lighten1"] { background-color: $lightblue-l1; }
+*.ts[data-bgcolor="lightblue lighten2"] { background-color: $lightblue-l2; }
+*.ts[data-bgcolor="lightblue lighten3"] { background-color: $lightblue-l3; }
+*.ts[data-bgcolor="lightblue lighten4"] { background-color: $lightblue-l4; }
+*.ts[data-bgcolor="lightblue lighten5"] { background-color: $lightblue-l5; }
+
+*.ts[data-bgcolor="lightblue darken1"] { background-color: $lightblue-d1; }
+*.ts[data-bgcolor="lightblue darken2"] { background-color: $lightblue-d2; }
+*.ts[data-bgcolor="lightblue darken3"] { background-color: $lightblue-d3; }
+*.ts[data-bgcolor="lightblue darken4"] { background-color: $lightblue-d4; }
+
+*.ts[data-bgcolor="lightblue accent1"] { background-color: $lightblue-a1; }
+*.ts[data-bgcolor="lightblue accent2"] { background-color: $lightblue-a2; }
+*.ts[data-bgcolor="lightblue accent3"] { background-color: $lightblue-a3; }
+*.ts[data-bgcolor="lightblue accent4"] { background-color: $lightblue-a4; }
+
+/*-- CYAN BACKGROUND --*/
+*.ts[data-bgcolor="cyan"] { background-color: $cyan; }
+
+*.ts[data-bgcolor="cyan lighten1"] { background-color: $cyan-l1; }
+*.ts[data-bgcolor="cyan lighten2"] { background-color: $cyan-l2; }
+*.ts[data-bgcolor="cyan lighten3"] { background-color: $cyan-l3; }
+*.ts[data-bgcolor="cyan lighten4"] { background-color: $cyan-l4; }
+*.ts[data-bgcolor="cyan lighten5"] { background-color: $cyan-l5; }
+
+*.ts[data-bgcolor="cyan darken1"] { background-color: $cyan-d1; }
+*.ts[data-bgcolor="cyan darken2"] { background-color: $cyan-d2; }
+*.ts[data-bgcolor="cyan darken3"] { background-color: $cyan-d3; }
+*.ts[data-bgcolor="cyan darken4"] { background-color: $cyan-d4; }
+
+*.ts[data-bgcolor="cyan accent1"] { background-color: $cyan-a1; }
+*.ts[data-bgcolor="cyan accent2"] { background-color: $cyan-a2; }
+*.ts[data-bgcolor="cyan accent3"] { background-color: $cyan-a3; }
+*.ts[data-bgcolor="cyan accent4"] { background-color: $cyan-a4; }
+
+/*-- TEAL BACKGROUND --*/
+*.ts[data-bgcolor="teal"] { background-color: $teal; }
+
+*.ts[data-bgcolor="teal lighten1"] { background-color: $teal-l1; }
+*.ts[data-bgcolor="teal lighten2"] { background-color: $teal-l2; }
+*.ts[data-bgcolor="teal lighten3"] { background-color: $teal-l3; }
+*.ts[data-bgcolor="teal lighten4"] { background-color: $teal-l4; }
+*.ts[data-bgcolor="teal lighten5"] { background-color: $teal-l5; }
+
+*.ts[data-bgcolor="teal darken1"] { background-color: $teal-d1; }
+*.ts[data-bgcolor="teal darken2"] { background-color: $teal-d2; }
+*.ts[data-bgcolor="teal darken3"] { background-color: $teal-d3; }
+*.ts[data-bgcolor="teal darken4"] { background-color: $teal-d4; }
+
+*.ts[data-bgcolor="teal accent1"] { background-color: $teal-a1; }
+*.ts[data-bgcolor="teal accent2"] { background-color: $teal-a2; }
+*.ts[data-bgcolor="teal accent3"] { background-color: $teal-a3; }
+*.ts[data-bgcolor="teal accent4"] { background-color: $teal-a4; }
+
+/*-- GREEN BACKGROUND --*/
+*.ts[data-bgcolor="green"] { background-color: $green; }
+
+*.ts[data-bgcolor="green lighten1"] { background-color: $green-l1; }
+*.ts[data-bgcolor="green lighten2"] { background-color: $green-l2; }
+*.ts[data-bgcolor="green lighten3"] { background-color: $green-l3; }
+*.ts[data-bgcolor="green lighten4"] { background-color: $green-l4; }
+*.ts[data-bgcolor="green lighten5"] { background-color: $green-l5; }
+
+*.ts[data-bgcolor="green darken1"] { background-color: $green-d1; }
+*.ts[data-bgcolor="green darken2"] { background-color: $green-d2; }
+*.ts[data-bgcolor="green darken3"] { background-color: $green-d3; }
+*.ts[data-bgcolor="green darken4"] { background-color: $green-d4; }
+
+*.ts[data-bgcolor="green accent1"] { background-color: $green-a1; }
+*.ts[data-bgcolor="green accent2"] { background-color: $green-a2; }
+*.ts[data-bgcolor="green accent3"] { background-color: $green-a3; }
+*.ts[data-bgcolor="green accent4"] { background-color: $green-a4; }
+
+/*-- LIGHT-GREEN BACKGROUND --*/
+*.ts[data-bgcolor="lightgreen"] { background-color: $lightgreen; }
+
+*.ts[data-bgcolor="lightgreen lighten1"] { background-color: $lightgreen-l1; }
+*.ts[data-bgcolor="lightgreen lighten2"] { background-color: $lightgreen-l2; }
+*.ts[data-bgcolor="lightgreen lighten3"] { background-color: $lightgreen-l3; }
+*.ts[data-bgcolor="lightgreen lighten4"] { background-color: $lightgreen-l4; }
+*.ts[data-bgcolor="lightgreen lighten5"] { background-color: $lightgreen-l5; }
+
+*.ts[data-bgcolor="lightgreen darken1"] { background-color: $lightgreen-d1; }
+*.ts[data-bgcolor="lightgreen darken2"] { background-color: $lightgreen-d2; }
+*.ts[data-bgcolor="lightgreen darken3"] { background-color: $lightgreen-d3; }
+*.ts[data-bgcolor="lightgreen darken4"] { background-color: $lightgreen-d4; }
+
+*.ts[data-bgcolor="lightgreen accent1"] { background-color: $lightgreen-a1; }
+*.ts[data-bgcolor="lightgreen accent2"] { background-color: $lightgreen-a2; }
+*.ts[data-bgcolor="lightgreen accent3"] { background-color: $lightgreen-a3; }
+*.ts[data-bgcolor="lightgreen accent4"] { background-color: $lightgreen-a4; }
+
+/*-- LIME BACKGROUND --*/
+*.ts[data-bgcolor="lime"] { background-color: $lime; }
+
+*.ts[data-bgcolor="lime lighten1"] { background-color: $lime-l1; }
+*.ts[data-bgcolor="lime lighten2"] { background-color: $lime-l2; }
+*.ts[data-bgcolor="lime lighten3"] { background-color: $lime-l3; }
+*.ts[data-bgcolor="lime lighten4"] { background-color: $lime-l4; }
+*.ts[data-bgcolor="lime lighten5"] { background-color: $lime-l5; }
+
+*.ts[data-bgcolor="lime darken1"] { background-color: $lime-d1; }
+*.ts[data-bgcolor="lime darken2"] { background-color: $lime-d2; }
+*.ts[data-bgcolor="lime darken3"] { background-color: $lime-d3; }
+*.ts[data-bgcolor="lime darken4"] { background-color: $lime-d4; }
+
+*.ts[data-bgcolor="lime accent1"] { background-color: $lime-a1; }
+*.ts[data-bgcolor="lime accent2"] { background-color: $lime-a2; }
+*.ts[data-bgcolor="lime accent3"] { background-color: $lime-a3; }
+*.ts[data-bgcolor="lime accent4"] { background-color: $lime-a4; }
+
+/*-- YELLOW BACKGROUND --*/
+*.ts[data-bgcolor="yellow"] { background-color: $yellow; }
+
+*.ts[data-bgcolor="yellow lighten1"] { background-color: $yellow-l1; }
+*.ts[data-bgcolor="yellow lighten2"] { background-color: $yellow-l2; }
+*.ts[data-bgcolor="yellow lighten3"] { background-color: $yellow-l3; }
+*.ts[data-bgcolor="yellow lighten4"] { background-color: $yellow-l4; }
+*.ts[data-bgcolor="yellow lighten5"] { background-color: $yellow-l5; }
+
+*.ts[data-bgcolor="yellow darken1"] { background-color: $yellow-d1; }
+*.ts[data-bgcolor="yellow darken2"] { background-color: $yellow-d2; }
+*.ts[data-bgcolor="yellow darken3"] { background-color: $yellow-d3; }
+*.ts[data-bgcolor="yellow darken4"] { background-color: $yellow-d4; }
+
+*.ts[data-bgcolor="yellow accent1"] { background-color: $yellow-a1; }
+*.ts[data-bgcolor="yellow accent2"] { background-color: $yellow-a2; }
+*.ts[data-bgcolor="yellow accent3"] { background-color: $yellow-a3; }
+*.ts[data-bgcolor="yellow accent4"] { background-color: $yellow-a4; }
+
+/*-- AMBER BACKGROUND --*/
+*.ts[data-bgcolor="amber"] { background-color: $amber; }
+
+*.ts[data-bgcolor="amber lighten1"] { background-color: $amber-l1; }
+*.ts[data-bgcolor="amber lighten2"] { background-color: $amber-l2; }
+*.ts[data-bgcolor="amber lighten3"] { background-color: $amber-l3; }
+*.ts[data-bgcolor="amber lighten4"] { background-color: $amber-l4; }
+*.ts[data-bgcolor="amber lighten5"] { background-color: $amber-l5; }
+
+*.ts[data-bgcolor="amber darken1"] { background-color: $amber-d1; }
+*.ts[data-bgcolor="amber darken2"] { background-color: $amber-d2; }
+*.ts[data-bgcolor="amber darken3"] { background-color: $amber-d3; }
+*.ts[data-bgcolor="amber darken4"] { background-color: $amber-d4; }
+
+*.ts[data-bgcolor="amber accent1"] { background-color: $amber-a1; }
+*.ts[data-bgcolor="amber accent2"] { background-color: $amber-a2; }
+*.ts[data-bgcolor="amber accent3"] { background-color: $amber-a3; }
+*.ts[data-bgcolor="amber accent4"] { background-color: $amber-a4; }
+
+/*-- ORANGE BACKGROUND --*/
+*.ts[data-bgcolor="orange"] { background-color: $orange; }
+
+*.ts[data-bgcolor="orange lighten1"] { background-color: $orange-l1; }
+*.ts[data-bgcolor="orange lighten2"] { background-color: $orange-l2; }
+*.ts[data-bgcolor="orange lighten3"] { background-color: $orange-l3; }
+*.ts[data-bgcolor="orange lighten4"] { background-color: $orange-l4; }
+*.ts[data-bgcolor="orange lighten5"] { background-color: $orange-l5; }
+
+*.ts[data-bgcolor="orange darken1"] { background-color: $orange-d1; }
+*.ts[data-bgcolor="orange darken2"] { background-color: $orange-d2; }
+*.ts[data-bgcolor="orange darken3"] { background-color: $orange-d3; }
+*.ts[data-bgcolor="orange darken4"] { background-color: $orange-d4; }
+
+*.ts[data-bgcolor="orange accent1"] { background-color: $orange-a1; }
+*.ts[data-bgcolor="orange accent2"] { background-color: $orange-a2; }
+*.ts[data-bgcolor="orange accent3"] { background-color: $orange-a3; }
+*.ts[data-bgcolor="orange accent4"] { background-color: $orange-a4; }
+
+/*-- DEEP-ORANGE BACKGROUND --*/
+*.ts[data-bgcolor="deeporange"] { background-color: $deeporange; }
+
+*.ts[data-bgcolor="deeporange lighten1"] { background-color: $deeporange-l1; }
+*.ts[data-bgcolor="deeporange lighten2"] { background-color: $deeporange-l2; }
+*.ts[data-bgcolor="deeporange lighten3"] { background-color: $deeporange-l3; }
+*.ts[data-bgcolor="deeporange lighten4"] { background-color: $deeporange-l4; }
+*.ts[data-bgcolor="deeporange lighten5"] { background-color: $deeporange-l5; }
+
+*.ts[data-bgcolor="deeporange darken1"] { background-color: $deeporange-d1; }
+*.ts[data-bgcolor="deeporange darken2"] { background-color: $deeporange-d2; }
+*.ts[data-bgcolor="deeporange darken3"] { background-color: $deeporange-d3; }
+*.ts[data-bgcolor="deeporange darken4"] { background-color: $deeporange-d4; }
+
+*.ts[data-bgcolor="deeporange accent1"] { background-color: $deeporange-a1; }
+*.ts[data-bgcolor="deeporange accent2"] { background-color: $deeporange-a2; }
+*.ts[data-bgcolor="deeporange accent3"] { background-color: $deeporange-a3; }
+*.ts[data-bgcolor="deeporange accent4"] { background-color: $deeporange-a4; }
+
+/*-- BROWN BACKGROUND --*/
+*.ts[data-bgcolor="brown"] { background-color: $brown; }
+
+*.ts[data-bgcolor="brown lighten1"] { background-color: $brown-l1; }
+*.ts[data-bgcolor="brown lighten2"] { background-color: $brown-l2; }
+*.ts[data-bgcolor="brown lighten3"] { background-color: $brown-l3; }
+*.ts[data-bgcolor="brown lighten4"] { background-color: $brown-l4; }
+*.ts[data-bgcolor="brown lighten5"] { background-color: $brown-l5; }
+
+*.ts[data-bgcolor="brown darken1"] { background-color: $brown-d1; }
+*.ts[data-bgcolor="brown darken2"] { background-color: $brown-d2; }
+*.ts[data-bgcolor="brown darken3"] { background-color: $brown-d3; }
+*.ts[data-bgcolor="brown darken4"] { background-color: $brown-d4; }
+
+/*-- GREY BACKGROUND --*/
+*.ts[data-bgcolor="grey"] { background-color: $grey; }
+
+*.ts[data-bgcolor="grey lighten1"] { background-color: $grey-l1; }
+*.ts[data-bgcolor="grey lighten2"] { background-color: $grey-l2; }
+*.ts[data-bgcolor="grey lighten3"] { background-color: $grey-l3; }
+*.ts[data-bgcolor="grey lighten4"] { background-color: $grey-l4; }
+*.ts[data-bgcolor="grey lighten5"] { background-color: $grey-l5; }
+
+*.ts[data-bgcolor="grey darken1"] { background-color: $grey-d1; }
+*.ts[data-bgcolor="grey darken2"] { background-color: $grey-d2; }
+*.ts[data-bgcolor="grey darken3"] { background-color: $grey-d3; }
+*.ts[data-bgcolor="grey darken4"] { background-color: $grey-d4; }
+
+/*-- BLUE-GREY BACKGROUND --*/
+*.ts[data-bgcolor="bluegrey"] { background-color: $bluegrey; }
+
+*.ts[data-bgcolor="bluegrey lighten1"] { background-color: $bluegrey-l1; }
+*.ts[data-bgcolor="bluegrey lighten2"] { background-color: $bluegrey-l2; }
+*.ts[data-bgcolor="bluegrey lighten3"] { background-color: $bluegrey-l3; }
+*.ts[data-bgcolor="bluegrey lighten4"] { background-color: $bluegrey-l4; }
+*.ts[data-bgcolor="bluegrey lighten5"] { background-color: $bluegrey-l5; }
+
+*.ts[data-bgcolor="bluegrey darken1"] { background-color: $bluegrey-d1; }
+*.ts[data-bgcolor="bluegrey darken2"] { background-color: $bluegrey-d2; }
+*.ts[data-bgcolor="bluegrey darken3"] { background-color: $bluegrey-d3; }
+*.ts[data-bgcolor="bluegrey darken4"] { background-color: $bluegrey-d4; }
+
+/*-- BLACK, WHITE and TRANSPARENT BACKGROUND --*/
+*.ts[data-bgcolor="black"] { background-color: $black; }
+*.ts[data-bgcolor="white"] { background-color: $white; }
+*.ts[data-bgcolor="transparent"] { background-color: $transparent; }
