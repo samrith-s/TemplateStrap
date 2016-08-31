@@ -1,5 +1,6 @@
-@import 'submodules/color/ts.sub.bgcolors.scss';
-@import 'submodules/color/ts.sub.textcolors.scss';
-@import 'submodules/color/ts.sub.bordercolors.scss';
-@import 'submodules/color/ts.sub.databgcolors.scss';
-@import 'submodules/color/ts.sub.datatextcolors.scss';
+@import 'submodules/color/attributed/background/_ts.sub.colors.attr.backgrounds.scss';
+@import 'submodules/color/attributed/border/_ts.sub.colors.attr.borders.scss';
+@import 'submodules/color/attributed/text/_ts.sub.colors.attr.text.scss';
+@import 'submodules/color/regular/background/_ts.sub.colors.reg.backgrounds.scss';
+@import 'submodules/color/regular/border/_ts.sub.colors.reg.borders.scss';
+@import 'submodules/color/regular/text/_ts.sub.colors.reg.text.scss';
